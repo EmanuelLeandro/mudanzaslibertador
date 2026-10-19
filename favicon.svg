@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mudanzas Libertador BA">
+  <circle cx="32" cy="32" r="32" fill="#0b0b0d"/>
+  <g fill="none" stroke="#fff" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M24 21h27v20H24z"/>
+    <path d="M24 26h-7l-5 7v8h12"/>
+    <path d="M14.5 29.5h8v-0"/>
+    <circle cx="19" cy="43" r="3.4" fill="#0b0b0d"/>
+    <circle cx="44" cy="43" r="3.4" fill="#0b0b0d"/>
+  </g>
+  <rect x="28" y="24.5" width="19" height="4.5" fill="#74ACDF"/>
+  <rect x="28" y="29" width="19" height="4.5" fill="#fff"/>
+  <rect x="28" y="33.5" width="19" height="4.5" fill="#74ACDF"/>
+  <circle cx="37.5" cy="31.25" r="1.6" fill="#F6B40E"/>
+</svg>
