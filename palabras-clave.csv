@@ -1,0 +1,83 @@
+keyword,intent,target page,notas
+mudanzas caba,transaccional local,mudanzas-caba.html,"autocompletado: ""mudanzas caba precios"" / ""mejor valorados"" / ""a provincia"""
+mudanzas caba precios,transaccional (precio),mudanzas-caba.html,responder con presupuesto cerrado; no publicamos precios
+empresa de mudanzas caba,transaccional local,mudanzas-caba.html,
+mudanzas caba a provincia,transaccional local,mudanzas-zona-norte.html,traslados CABA <-> Zona Norte
+mudanzas zona norte,transaccional local,mudanzas-zona-norte.html,término principal de la marca
+mudanzas zona norte precios,transaccional (precio),mudanzas-zona-norte.html,
+empresas mudanzas zona norte,transaccional local,mudanzas-zona-norte.html,
+fletes mudanzas zona norte,transaccional local,mudanzas-zona-norte.html,
+fletes zona norte,transaccional local,fletes.html,
+fletes zona norte vicente lopez,transaccional local,mudanzas-vicente-lopez-olivos.html,autocompletado
+fletes zona norte san fernando,transaccional local,mudanzas-tigre-san-fernando.html,"autocompletado; v5: SIN FUENTE en el Instagram, página en noindex hasta que el dueño confirme"
+fletes zona norte martinez,transaccional local,mudanzas-san-isidro-martinez.html,autocompletado
+fletes caba,transaccional local,fletes.html,
+fletes caba precios,transaccional (precio),fletes.html,
+fletes caba baratos,transaccional (precio),fletes.html,"usar ""vehículo según volumen"" sin prometer ""barato"""
+flete chico,transaccional,fletes.html,
+flete chico caba,transaccional local,fletes.html,autocompletado
+fletes y mudanzas,transaccional,index.html,genérico; competir en local
+fletes y mudanzas caba,transaccional local,mudanzas-caba.html,
+mudanzas,genérico,index.html,muy competido; apuntar a long tail local
+empresa de mudanzas,transaccional,index.html,
+mudanzas económicas,transaccional (precio),mudanzas-en-cuotas.html,"ángulo honesto: precio cerrado + cuotas (no ""las más baratas"")"
+mudanzas en cuotas,transaccional,mudanzas-en-cuotas.html,diferencial real; poca competencia
+mudanza en cuotas mercado pago,transaccional,mudanzas-en-cuotas.html,
+financiación mudanza,transaccional,mudanzas-en-cuotas.html,
+presupuesto mudanza,transaccional,index.html,cotizador por pasos
+presupuesto de mudanza online,transaccional,index.html,cotizador por WhatsApp
+mudanza precio cerrado,transaccional,index.html,diferencial: no cobramos por hora
+cuánto cuesta una mudanza en caba,informacional,mudanzas-caba.html,FAQ: de qué depende el precio
+cuánto cuesta una mudanza en argentina,informacional,index.html,FAQ
+cuánto cuesta una mudanza pequeña,informacional,fletes.html,FAQ
+izaje de muebles,transaccional,izaje-de-muebles-por-soga.html,
+izaje de muebles por balcón,transaccional,izaje-de-muebles-por-soga.html,autocompletado
+servicio de izaje de muebles,transaccional,izaje-de-muebles-por-soga.html,autocompletado
+izaje por soga,transaccional,izaje-de-muebles-por-soga.html,
+qué hago si un mueble no entra por el ascensor,informacional,izaje-de-muebles-por-soga.html,FAQ
+mudanza de oficina,transaccional,mudanzas-de-oficinas.html,
+servicio de mudanza de oficina,transaccional,mudanzas-de-oficinas.html,autocompletado
+mudanzas de oficinas caba,transaccional local,mudanzas-de-oficinas.html,
+mudanzas empresas zona norte,transaccional local,mudanzas-de-oficinas.html,
+embalaje mudanza,transaccional,embalaje-y-armado-de-muebles.html,
+servicio de embalaje mudanza,transaccional,embalaje-y-armado-de-muebles.html,autocompletado
+kit embalaje mudanza,transaccional,embalaje-y-armado-de-muebles.html,autocompletado; tienen kit de embalaje
+mudanzas embalaje y desembalaje,transaccional,embalaje-y-armado-de-muebles.html,
+desarme y armado de muebles,transaccional,embalaje-y-armado-de-muebles.html,
+mudanzas al interior,transaccional,mudanzas-al-interior-y-a-la-costa.html,
+mudanzas al interior del país,transaccional,mudanzas-al-interior-y-a-la-costa.html,
+empresas de mudanzas al interior del país,transaccional,mudanzas-al-interior-y-a-la-costa.html,
+mudanzas a la costa atlántica,transaccional,mudanzas-al-interior-y-a-la-costa.html,
+fletes mudanzas a la costa atlántica,transaccional,mudanzas-al-interior-y-a-la-costa.html,
+mudanzas a mar del plata desde capital,transaccional,mudanzas-al-interior-y-a-la-costa.html,"mencionar solo como destino posible a confirmar; v5: la ciudad ya no se nombra en la página (el IG solo dice ""la Costa""); no usar en anuncios sin confirmar"
+mudanzas caba mar del plata,transaccional,mudanzas-al-interior-y-a-la-costa.html,"v5: la ciudad ya no se nombra en la página (el IG solo dice ""la Costa""); no usar en anuncios sin confirmar"
+mudanzas pinamar,transaccional,mudanzas-al-interior-y-a-la-costa.html,"bajo volumen; v5: la ciudad ya no se nombra en la página (el IG solo dice ""la Costa""); no usar en anuncios sin confirmar"
+mudanzas larga distancia,transaccional,mudanzas-al-interior-y-a-la-costa.html,
+mudanza departamento,transaccional,index.html,
+mudanzas belgrano,transaccional local,mudanzas-belgrano-nunez.html,
+mudanzas belgrano caba,transaccional local,mudanzas-belgrano-nunez.html,
+mudanzas en belgrano núñez,transaccional local,mudanzas-belgrano-nunez.html,autocompletado
+mudanzas núñez,transaccional local,mudanzas-belgrano-nunez.html,
+fletes y mudanzas núñez,transaccional local,mudanzas-belgrano-nunez.html,
+mudanzas palermo,transaccional local,mudanzas-palermo.html,
+fletes y mudanzas palermo,transaccional local,mudanzas-palermo.html,
+mudanzas colegiales,transaccional local,mudanzas-palermo.html,"barrio vecino; volumen bajo; v5: SIN FUENTE, se sacó de la página"
+mudanzas villa urquiza,transaccional local,mudanzas-caba.html,sin página propia (volumen bajo)
+mudanzas saavedra,transaccional local,mudanzas-belgrano-nunez.html,barrio vecino; v5: verificado (subtítulos de los reels DcZpCt6JUmU y DXAMZgNEauO)
+mudanzas vicente lópez,transaccional local,mudanzas-vicente-lopez-olivos.html,
+mudanzas olivos,transaccional local,mudanzas-vicente-lopez-olivos.html,
+mudanzas san isidro,transaccional local,mudanzas-san-isidro-martinez.html,
+mudanzas martínez,transaccional local,mudanzas-san-isidro-martinez.html,"mucho ruido de marcas ""Mudanzas Martínez"""
+mudanzas tigre,transaccional local,mudanzas-tigre-san-fernando.html,"v5: SIN FUENTE en el Instagram, página en noindex hasta que el dueño confirme"
+empresa mudanzas tigre,transaccional local,mudanzas-tigre-san-fernando.html,"v5: SIN FUENTE en el Instagram, página en noindex hasta que el dueño confirme"
+mudanzas san fernando,transaccional local,mudanzas-tigre-san-fernando.html,"ruido de España/Chile; usar ""San Fernando Buenos Aires""; v5: SIN FUENTE en el Instagram, página en noindex hasta que el dueño confirme"
+mudanzas pilar,transaccional local,mudanzas-zona-norte.html,sin página propia hasta confirmar cobertura
+fletes mudanzas pilar,transaccional local,mudanzas-zona-norte.html,
+mudanzas escobar,transaccional local,mudanzas-zona-norte.html,sin página propia hasta confirmar cobertura
+mudanzas san martín,transaccional local,mudanzas-zona-norte.html,mucho ruido de otros países
+¿cobran por hora o precio cerrado?,informacional,index.html,FAQ
+¿qué datos necesito para pedir presupuesto de mudanza?,informacional,index.html,FAQ
+¿la mudanza incluye el embalaje?,informacional,embalaje-y-armado-de-muebles.html,FAQ (People also ask)
+¿qué pasa si no hay ascensor?,informacional,izaje-de-muebles-por-soga.html,FAQ (People also ask)
+¿se puede pagar una mudanza en cuotas?,informacional,mudanzas-en-cuotas.html,FAQ
+mudanzas cerca de mí,local (Maps),Google Business Profile,se gana con la ficha de Google + reseñas

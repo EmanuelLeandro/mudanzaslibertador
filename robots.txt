@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# REEMPLAZAR el dominio
+Sitemap: https://www.tu-dominio.com.ar/sitemap.xml
