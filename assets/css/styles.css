@@ -460,3 +460,37 @@ p{margin:0}
   .quote h2{font-size:1.3rem}
 }
 .tag{-webkit-backdrop-filter:blur(6px)}
+
+/* ===== v6: autocompletado de direcciones ===== */
+.fl input,.fl textarea,.fl select{font-size:16px} /* 16px: evita el zoom automático de iOS */
+.ac{position:fixed;z-index:120;background:#fff;color:#0a1224;border:1px solid rgba(10,18,36,.12);border-radius:14px;box-shadow:0 18px 40px -12px rgba(10,18,36,.35),0 2px 6px rgba(10,18,36,.08);overflow:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;animation:acIn .14s ease-out}
+.ac[hidden]{display:none}
+.ac__list{list-style:none;margin:0;padding:6px}
+.ac__opt{display:flex;align-items:center;gap:12px;min-height:52px;padding:8px 12px;border-radius:10px;cursor:pointer;line-height:1.25;-webkit-tap-highlight-color:transparent}
+.ac__opt .ic{flex:none;width:18px;height:18px;color:#8a93a6}
+.ac__opt span{min-width:0;display:flex;flex-direction:column}
+.ac__opt b{font-weight:600;font-size:15px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ac__opt small{font-size:13px;color:#5b6477;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-top:2px}
+.ac__opt[aria-selected="true"]{background:#eef4fb}
+.ac__opt[aria-selected="true"] .ic{color:#e5392f}
+.ac__attr{margin:0;padding:6px 14px 8px;border-top:1px solid rgba(10,18,36,.08);font-size:11px;color:#8a93a6;text-align:right}
+.ac__attr a{color:inherit;text-decoration:underline}
+@keyframes acIn{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:none}}
+.ac--up{animation:none}
+@media (prefers-reduced-motion:reduce){.ac{animation:none}}
+
+/* ===== v7: opiniones en Google ===== */
+.review{margin-top:clamp(28px,4vw,44px);display:flex;align-items:center;gap:clamp(16px,2.5vw,28px);padding:clamp(20px,3vw,32px);background:#fff;border:1px solid rgba(10,18,36,.1);border-radius:20px;box-shadow:0 14px 34px -18px rgba(10,18,36,.28)}
+.review__g{flex:none;display:grid;place-items:center;width:64px;height:64px;border-radius:50%;background:#fff;box-shadow:0 0 0 1px rgba(10,18,36,.1),0 6px 16px -8px rgba(10,18,36,.3)}
+.review__g svg{width:32px;height:32px}
+.review__txt{flex:1;min-width:0}
+.review__stars{display:flex;gap:4px;color:#f4b400;margin-bottom:8px}
+.review__stars svg{width:20px;height:20px}
+.review h3{margin:0 0 6px;font-size:clamp(20px,2.2vw,26px);line-height:1.15}
+.review p{margin:0;color:#5b6477;max-width:52ch}
+.review__btn{flex:none}
+@media (max-width:760px){
+  .review{flex-direction:column;align-items:flex-start;text-align:left}
+  .review__g{width:56px;height:56px}
+  .review__btn{width:100%;justify-content:center}
+}
